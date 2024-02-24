@@ -1,10 +1,19 @@
-lua54 'yes' 
+--[[ FX Information ]]--
+
 fx_version 'cerulean'
+lua54 'yes' 
 game 'gta5'
-version '1.0.0'
-author '.jackster.' -- Dont change ❤
-description 'Anti pistol whip'
-lua54 'on'
+
+--[[ Resource Information ]]--
+
+name         'js-antiwhip'
+author       'Jackster'
+version      '1.0.0'
+repository   'https://github.com/Jackster-off/js-antiwhip'
+description  'Disable pistol whip in your fivem server'
+
+--[[ Manifest ]]--
+
 client_scripts {
 	'client.lua'
 }
