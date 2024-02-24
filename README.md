@@ -1,5 +1,3 @@
-Made by : Jackster
+Disable pistol whip in your fivem server!
 
-Github : https://github.com/Jackster-off/js-antiwhip
-
-If found any issues, message me on discord : .jackster.
+If found any errors/bugs, message me on discord : .jackster.
